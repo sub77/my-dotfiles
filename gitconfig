@@ -1,0 +1,8 @@
+# Das ist Git's benutzerspezifische Konfigurationsdatei.
+[user]
+	name = sub77
+	email = sub77@ymail.com
+[core]
+	editor = nano
+[credential]
+	helper = cache
