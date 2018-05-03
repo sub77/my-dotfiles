@@ -4,4 +4,8 @@ ignore = [
     '.gitignore',
     '*.swp']
 
-packages = ['config']
+packages = [
+    'config',
+    'fonts',
+    'icons',
+    'themes']
