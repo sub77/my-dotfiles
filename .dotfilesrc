@@ -1,9 +1,11 @@
 [dotfiles]
+repository = /home/sub77/.dotfiles
 ignore = [
     '.git',
     '.gitignore',
+    'install_dotfiles.sh',
+    'README.md',
     '*.swp']
-
 packages = [
     'config',
     'fonts',
