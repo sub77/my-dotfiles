@@ -2,6 +2,10 @@ To install dotfiles, simply:
 
 $ curl https://raw.githubusercontent.com/sub77/my-dotfiles/master/install_dotfiles.sh | bash
 
+or interactive:
+
+$ curl -o /tmp/install.sh https://raw.githubusercontent.com/sub77/my-dotfiles/master/install_dotfiles.sh && bash /tmp/install.sh 
+
 or:
 
 $ pip install dotfiles
